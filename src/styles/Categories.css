@@ -1,0 +1,21 @@
+.categories {
+  position: absolute;
+  right: 44%;
+  background-color: whitesmoke;
+  width: max-content;
+  height: max-content;
+  margin-top: 30px;
+  overflow: auto;
+  box-shadow: inset 0px 1px 0px 0px #f0f7fa;
+  background: linear-gradient(to bottom, #2182a3 5%, #317a94 100%);
+  background-color: #2182a3;
+  border-radius: 3px;
+  border: 1px solid #0c6094;
+  display: inline-block;
+  color: #ffffff;
+  font-family: monospace;
+  font-size: 13px;
+  padding: 6px 24px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #596694;
+}
